@@ -1,0 +1,462 @@
+21630:59 InitGame: \g_antilag\1\g_gametype\tdm\gamename\Call of Duty 2\mapname\mp_toujane\protocol\118\scr_friendlyfire\1\scr_killcam\0\shortversion\1.3\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\^1RT Creative CoD2\sv_maxclients\16\sv_maxPing\350\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+21631:05 J;0;2;Moosejaw
+21631:06 J;0;3;Gilbert Justice
+21631:07 J;0;0;your hopes and dreams
+21631:10 J;0;1;bob loblaw
+21631:19 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21631:44 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21631:45 J;0;4;Simo Hayha
+21631:56 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;90;MOD_RIFLE_BULLET;right_arm_lower
+21632:02 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;left_leg_upper
+21632:10 Weapon;0;2;Moosejaw;frag_grenade_german_mp
+21632:11 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21632:12 D;0;3;axis;Gilbert Justice;0;3;axis;Gilbert Justice;frag_grenade_german_mp;81;MOD_GRENADE_SPLASH;none
+21632:16 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21632:29 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21632:33 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21632:44 D;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;frag_grenade_german_mp;63;MOD_GRENADE_SPLASH;none
+21632:55 Weapon;0;4;Simo Hayha;kar98k_sniper_mp
+21632:57 Weapon;0;4;Simo Hayha;frag_grenade_german_mp
+21633:00 K;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21633:08 D;0;1;allies;bob loblaw;0;0;axis;your hopes and dreams;frag_grenade_german_mp;60;MOD_GRENADE_SPLASH;none
+21633:12 D;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;frag_grenade_british_mp;80;MOD_GRENADE_SPLASH;none
+21633:15 K;0;2;allies;Moosejaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21633:18 K;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21633:23 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;90;MOD_RIFLE_BULLET;right_arm_lower
+21633:24 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21633:28 D;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;frag_grenade_german_mp;97;MOD_GRENADE_SPLASH;none
+21633:28 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;frag_grenade_german_mp;129;MOD_GRENADE_SPLASH;none
+21633:29 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;torso_lower
+21633:33 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21633:37 Weapon;0;0;your hopes and dreams;frag_grenade_british_mp
+21633:37 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21633:39 D;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;90;MOD_RIFLE_BULLET;left_leg_lower
+21633:46 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21633:50 D;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;67;MOD_RIFLE_BULLET;torso_upper
+21633:51 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21633:55 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;270;MOD_HEAD_SHOT;head
+21633:57 Weapon;0;4;Simo Hayha;frag_grenade_german_mp
+21634:00 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21634:06 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21634:08 K;0;1;allies;bob loblaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21634:11 Weapon;0;0;your hopes and dreams;frag_grenade_british_mp
+21634:13 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21634:16 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21634:26 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21634:29 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21634:37 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;270;MOD_HEAD_SHOT;head
+21634:44 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;frag_grenade_british_mp;91;MOD_GRENADE_SPLASH;none
+21634:46 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;30;MOD_PISTOL_BULLET;torso_lower
+21634:50 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21634:51 D;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;webley_mp;45;MOD_PISTOL_BULLET;torso_lower
+21634:51 D;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;webley_mp;45;MOD_PISTOL_BULLET;torso_lower
+21634:51 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;webley_mp;45;MOD_PISTOL_BULLET;torso_lower
+21635:03 say;0;4;Simo Hayha;nice bob
+21635:05 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21635:08 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21635:15 Weapon;0;4;Simo Hayha;frag_grenade_german_mp
+21635:17 Weapon;0;4;Simo Hayha;frag_grenade_german_mp
+21635:22 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;neck
+21635:24 D;0;3;axis;Gilbert Justice;0;3;axis;Gilbert Justice;frag_grenade_german_mp;64;MOD_GRENADE_SPLASH;none
+21635:25 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21635:28 K;0;2;allies;Moosejaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21635:30 Weapon;0;0;your hopes and dreams;frag_grenade_british_mp
+21635:35 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21635:37 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21635:41 D;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;frag_grenade_german_mp;66;MOD_GRENADE_SPLASH;none
+21635:43 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;neck
+21635:45 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21635:51 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21635:51 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21635:52 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21635:55 Weapon;0;4;Simo Hayha;kar98k_sniper_mp
+21636:00 D;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;frag_grenade_british_mp;35;MOD_GRENADE_SPLASH;none
+21636:02 D;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;frag_grenade_german_mp;50;MOD_GRENADE_SPLASH;none
+21636:05 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;frag_grenade_british_mp;57;MOD_GRENADE_SPLASH;none
+21636:07 sayteam;0;1;bob loblaw;maybe i should just let you handle this one moose
+21636:07 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;frag_grenade_german_mp;161;MOD_GRENADE_SPLASH;none
+21636:11 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+21636:24 say;0;4;Simo Hayha;it was clean!!!
+21636:25 K;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21636:25 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;90;MOD_RIFLE_BULLET;right_hand
+21636:29 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21636:37 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21636:48 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21636:51 say;0;1;bob loblaw;wow
+21636:52 Weapon;0;0;your hopes and dreams;frag_grenade_german_mp
+21636:54 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21636:55 K;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21637:00 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21637:05 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;right_arm_lower
+21637:06 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;torso_upper
+21637:06 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;luger_mp;135;MOD_MELEE;head
+21637:07 K;0;3;axis;Gilbert Justice;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21637:12 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21637:17 D;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;90;MOD_RIFLE_BULLET;left_hand
+21637:17 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;35;MOD_RIFLE_BULLET;right_arm_lower
+21637:17 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;35;MOD_RIFLE_BULLET;torso_lower
+21637:17 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;mg42_bipod_stand_mp;35;MOD_RIFLE_BULLET;torso_lower
+21637:17 Weapon;0;1;bob loblaw;webley_mp
+21637:17 Weapon;0;1;bob loblaw;luger_mp
+21637:22 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21637:33 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21637:37 say;0;1;bob loblaw;baby lugerator can be proud of uncle simo today
+21637:51 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;mg42_bipod_stand_mp;105;MOD_HEAD_SHOT;head
+21637:54 say;0;4;Simo Hayha;you know Ben's hearing stories already
+21637:58 D;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;90;MOD_RIFLE_BULLET;left_leg_lower
+21638:03 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21638:09 say;0;1;bob loblaw;once there was a racoon...
+21638:10 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;neck
+21638:14 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21638:25 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;270;MOD_HEAD_SHOT;head
+21638:33 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+21638:44 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21638:49 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21638:55 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21639:03 say;0;4;Simo Hayha;you knew it
+21639:08 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21639:10 D;0;4;axis;Simo Hayha;0;4;axis;Simo Hayha;frag_grenade_german_mp;62;MOD_GRENADE_SPLASH;none
+21639:12 Weapon;0;2;Moosejaw;frag_grenade_german_mp
+21639:31 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21639:36 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21639:36 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21639:41 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;right_leg_upper
+21639:47 say;0;1;bob loblaw;nice shot
+21639:59 D;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;90;MOD_RIFLE_BULLET;right_arm_lower
+21640:00 D;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;webley_mp;43;MOD_PISTOL_BULLET;torso_lower
+21640:00 D;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;webley_mp;45;MOD_PISTOL_BULLET;torso_lower
+21640:04 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;90;MOD_RIFLE_BULLET;right_leg_upper
+21640:07 D;0;1;allies;bob loblaw;0;2;allies;Moosejaw;frag_grenade_british_mp;75;MOD_GRENADE_SPLASH;none
+21640:09 K;0;1;allies;bob loblaw;0;2;allies;Moosejaw;frag_grenade_british_mp;77;MOD_GRENADE_SPLASH;none
+21640:11 Weapon;0;2;Moosejaw;frag_grenade_british_mp
+21640:14 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21640:16 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21640:17 say;0;2;Moosejaw;sorry bob
+21640:17 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21640:29 say;0;1;bob loblaw;you germans okay?
+21640:32 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21640:36 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21640:54 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21640:55 D;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;webley_mp;45;MOD_PISTOL_BULLET;torso_upper
+21640:57 D;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;webley_mp;51;MOD_MELEE;torso_upper
+21640:57 K;0;1;allies;bob loblaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+21641:02 say;0;4;Simo Hayha;tail's between our legs and not a raccoon's either
+21641:10 D;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+21641:10 D;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;luger_mp;44;MOD_PISTOL_BULLET;torso_lower
+21641:11 D;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;webley_mp;43;MOD_PISTOL_BULLET;torso_upper
+21641:15 D;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;luger_mp;40;MOD_PISTOL_BULLET;torso_lower
+21641:16 D;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;webley_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+21641:19 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;frag_grenade_british_mp;76;MOD_GRENADE_SPLASH;none
+21641:20 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21641:24 K;0;2;allies;Moosejaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21641:28 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21641:34 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21641:36 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21641:51 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21641:51 D;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;90;MOD_RIFLE_BULLET;left_arm_lower
+21641:56 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21641:58 K;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;frag_grenade_german_mp;153;MOD_GRENADE_SPLASH;none
+21642:00 Weapon;0;4;Simo Hayha;frag_grenade_german_mp
+21642:05 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21642:08 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;270;MOD_HEAD_SHOT;head
+21642:11 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21642:14 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21642:19 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21642:19 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21642:25 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21642:28 say;0;1;bob loblaw;nice
+21642:28 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;frag_grenade_british_mp;142;MOD_GRENADE_SPLASH;none
+21642:31 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21642:35 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;270;MOD_HEAD_SHOT;head
+21642:35 say;0;4;Simo Hayha;nice back
+21642:35 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21642:39 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21642:50 K;0;1;allies;bob loblaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;left_arm_upper
+21642:50 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21643:02 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21643:07 sayteam;0;1;bob loblaw;QUICKMESSAGE_GREAT_SHOT
+21643:09 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21643:22 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;torso_upper
+21643:22 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;left_hand
+21643:23 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;torso_lower
+21643:26 Weapon;0;2;Moosejaw;luger_mp
+21643:36 D;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;luger_mp;35;MOD_RIFLE_BULLET;torso_lower
+21643:36 D;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;luger_mp;35;MOD_RIFLE_BULLET;torso_lower
+21643:36 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;mg42_bipod_stand_mp;35;MOD_RIFLE_BULLET;torso_lower
+21643:39 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;90;MOD_RIFLE_BULLET;right_arm_lower
+21643:41 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21643:47 Weapon;0;3;Gilbert Justice;kar98k_sniper_mp
+21643:55 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21643:56 Weapon;0;4;Simo Hayha;frag_grenade_british_mp
+21643:57 Weapon;0;4;Simo Hayha;enfield_scope_mp
+21643:58 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21644:03 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21644:09 Weapon;0;4;Simo Hayha;frag_grenade_german_mp
+21644:14 D;0;3;axis;Gilbert Justice;0;0;axis;your hopes and dreams;frag_grenade_german_mp;77;MOD_GRENADE_SPLASH;none
+21644:14 K;0;0;axis;your hopes and dreams;0;0;axis;your hopes and dreams;frag_grenade_german_mp;166;MOD_GRENADE_SPLASH;none
+21644:23 D;0;1;allies;bob loblaw;;-1;world;;none;2;MOD_FALLING;none
+21644:27 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21644:33 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21644:39 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21644:43 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21644:47 K;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21644:49 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21644:50 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21645:12 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21645:16 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21645:17 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21645:28 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21645:32 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;neck
+21645:33 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+21645:35 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21645:39 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21645:47 Weapon;0;4;Simo Hayha;kar98k_sniper_mp
+21645:49 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;270;MOD_HEAD_SHOT;head
+21645:59 D;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+21646:00 D;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;left_arm_lower
+21646:01 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;webley_mp;130;MOD_MELEE;head
+21646:02 Weapon;0;1;bob loblaw;luger_mp
+21646:07 say;0;4;Simo Hayha;bob!!!!!
+21646:16 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21646:19 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21646:29 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;right_leg_upper
+21646:33 say;0;1;bob loblaw;just being a blessing
+21646:54 D;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;frag_grenade_german_mp;75;MOD_GRENADE_SPLASH;none
+21647:03 D;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;right_hand
+21647:03 D;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;torso_lower
+21647:04 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;left_leg_upper
+21647:06 Weapon;0;4;Simo Hayha;frag_grenade_british_mp
+21647:08 say;0;1;bob loblaw;haaa
+21647:11 K;0;3;axis;Gilbert Justice;0;4;axis;Simo Hayha;frag_grenade_british_mp;100;MOD_GRENADE_SPLASH;none
+21647:16 sayteam;0;1;bob loblaw;QUICKMESSAGE_GREAT_SHOT
+21647:20 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+21647:28 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21647:33 D;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;webley_mp;13;MOD_PISTOL_BULLET;right_leg_upper
+21647:34 D;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;webley_mp;10;MOD_PISTOL_BULLET;torso_lower
+21647:39 Weapon;0;3;Gilbert Justice;kar98k_sniper_mp
+21647:42 Weapon;0;4;Simo Hayha;kar98k_sniper_mp
+21647:42 Weapon;0;4;Simo Hayha;frag_grenade_british_mp
+21647:51 D;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;torso_lower
+21647:51 D;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+21647:51 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+21647:54 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21648:02 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21648:09 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21648:17 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21648:20 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21648:21 D;0;0;axis;your hopes and dreams;0;3;axis;Gilbert Justice;frag_grenade_german_mp;80;MOD_GRENADE_SPLASH;none
+21648:21 Weapon;0;0;your hopes and dreams;frag_grenade_german_mp
+21648:23 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21648:28 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21648:33 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21648:35 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21648:37 Weapon;0;0;your hopes and dreams;frag_grenade_german_mp
+21648:45 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;right_arm_upper
+21648:49 D;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;90;MOD_RIFLE_BULLET;left_leg_upper
+21648:49 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21649:01 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;52;MOD_RIFLE_BULLET;torso_upper
+21649:01 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;mg42_bipod_stand_mp;52;MOD_RIFLE_BULLET;torso_upper
+21649:03 sayteam;0;1;bob loblaw;QUICKMESSAGE_GREAT_SHOT
+21649:12 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21649:27 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;frag_grenade_german_mp;178;MOD_GRENADE_SPLASH;none
+21649:32 K;0;1;allies;bob loblaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21649:40 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21649:43 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;270;MOD_HEAD_SHOT;head
+21649:44 say;0;4;Simo Hayha;i shot you!
+21649:46 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21649:46 Weapon;0;3;Gilbert Justice;kar98k_sniper_mp
+21649:47 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21649:47 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21649:50 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21649:50 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;webley_mp;112;MOD_HEAD_SHOT;head
+21649:50 D;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;webley_mp;45;MOD_PISTOL_BULLET;torso_upper
+21649:55 D;0;3;axis;Gilbert Justice;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;torso_lower
+21649:55 D;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;torso_lower
+21649:56 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;luger_mp;112;MOD_HEAD_SHOT;head
+21650:05 K;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21650:05 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;mg42_bipod_stand_mp;105;MOD_HEAD_SHOT;head
+21650:05 Weapon;0;4;Simo Hayha;enfield_mp
+21650:06 Weapon;0;4;Simo Hayha;enfield_scope_mp
+21650:07 Weapon;0;4;Simo Hayha;frag_grenade_british_mp
+21650:13 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;enfield_scope_mp;135;MOD_RIFLE_BULLET;right_leg_upper
+21650:19 say;0;1;bob loblaw;was that a hip shot?
+21650:25 say;0;4;Simo Hayha;no
+21650:29 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+21650:33 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;270;MOD_HEAD_SHOT;head
+21650:33 K;0;1;allies;bob loblaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21650:39 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21650:45 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;270;MOD_HEAD_SHOT;head
+21650:51 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21650:52 K;0;1;allies;bob loblaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21650:56 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;270;MOD_HEAD_SHOT;head
+21650:57 Weapon;0;4;Simo Hayha;frag_grenade_british_mp
+21651:01 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;270;MOD_HEAD_SHOT;head
+21651:03 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;frag_grenade_british_mp;105;MOD_GRENADE_SPLASH;none
+21651:03 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;frag_grenade_british_mp;109;MOD_GRENADE_SPLASH;none
+21651:04 sayteam;0;1;bob loblaw;QUICKMESSAGE_GREAT_SHOT
+21651:10 K;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21651:14 say;0;1;bob loblaw;nice phil
+21651:17 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21651:20 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;mg42_bipod_stand_mp;105;MOD_HEAD_SHOT;head
+21651:22 Weapon;0;2;Moosejaw;frag_grenade_british_mp
+21651:27 D;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;frag_grenade_german_mp;68;MOD_GRENADE_SPLASH;none
+21651:31 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21651:41 say;0;1;bob loblaw;agh
+21651:45 K;0;1;allies;bob loblaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21651:48 D;0;4;axis;Simo Hayha;;-1;world;;none;8;MOD_FALLING;none
+21651:51 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21651:58 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21652:00 D;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;35;MOD_RIFLE_BULLET;right_arm_lower
+21652:00 D;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;35;MOD_RIFLE_BULLET;right_arm_lower
+21652:00 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;mg42_bipod_stand_mp;35;MOD_RIFLE_BULLET;right_hand
+21652:07 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21652:07 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21652:16 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21652:18 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21652:23 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;left_leg_upper
+21652:27 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21652:33 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21652:36 D;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;webley_mp;45;MOD_PISTOL_BULLET;torso_upper
+21652:36 D;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;webley_mp;45;MOD_PISTOL_BULLET;right_arm_upper
+21652:36 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;webley_mp;45;MOD_PISTOL_BULLET;torso_lower
+21652:42 D;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;frag_grenade_german_mp;74;MOD_GRENADE_SPLASH;none
+21652:45 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;90;MOD_RIFLE_BULLET;right_arm_lower
+21652:49 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21652:55 D;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;90;MOD_RIFLE_BULLET;right_arm_lower
+21652:56 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;webley_mp;45;MOD_PISTOL_BULLET;left_arm_upper
+21652:59 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;frag_grenade_british_mp;104;MOD_GRENADE_SPLASH;none
+21653:01 Weapon;0;2;Moosejaw;frag_grenade_british_mp
+21653:04 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21653:06 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;left_leg_upper
+21653:07 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;frag_grenade_german_mp;149;MOD_GRENADE_SPLASH;none
+21653:07 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21653:12 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21653:21 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21653:22 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;frag_grenade_german_mp;128;MOD_GRENADE_SPLASH;none
+21653:33 say;0;1;bob loblaw;lugerater level grenade throw
+21653:39 K;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21653:42 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21653:47 K;0;2;allies;Moosejaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;neck
+21653:54 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21653:55 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21653:59 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21654:09 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21654:09 Weapon;0;4;Simo Hayha;frag_grenade_british_mp
+21654:10 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;frag_grenade_british_mp;101;MOD_GRENADE_SPLASH;none
+21654:12 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21654:22 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21654:25 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21654:30 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;right_leg_upper
+21654:30 K;0;1;allies;bob loblaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21654:37 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;270;MOD_HEAD_SHOT;head
+21654:48 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;right_arm_upper
+21654:56 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21654:59 Weapon;0;2;Moosejaw;frag_grenade_british_mp
+21655:03 Weapon;0;0;your hopes and dreams;frag_grenade_british_mp
+21655:07 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;frag_grenade_british_mp;101;MOD_GRENADE_SPLASH;none
+21655:07 D;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;right_leg_lower
+21655:07 D;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;torso_lower
+21655:11 D;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;left_arm_upper
+21655:11 D;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;left_hand
+21655:12 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;right_arm_upper
+21655:14 Weapon;0;2;Moosejaw;kar98k_sniper_mp
+21655:15 Weapon;0;2;Moosejaw;luger_mp
+21655:19 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21655:30 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;35;MOD_RIFLE_BULLET;torso_lower
+21655:30 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;35;MOD_RIFLE_BULLET;torso_lower
+21655:31 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;mg42_bipod_stand_mp;35;MOD_RIFLE_BULLET;torso_lower
+21655:32 sayteam;0;1;bob loblaw;QUICKMESSAGE_GREAT_SHOT
+21655:40 D;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;luger_mp;45;MOD_PISTOL_BULLET;torso_upper
+21655:40 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21655:42 Weapon;0;2;Moosejaw;luger_mp
+21655:58 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21656:00 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21656:01 say;0;4;Simo Hayha;nice
+21656:02 say;0;3;Gilbert Justice;it's been a while since i had a game this bad
+21656:08 Weapon;0;2;Moosejaw;luger_mp
+21656:17 K;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21656:19 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;52;MOD_RIFLE_BULLET;right_arm_upper
+21656:19 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;35;MOD_RIFLE_BULLET;left_leg_lower
+21656:19 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;mg42_bipod_stand_mp;52;MOD_RIFLE_BULLET;right_leg_upper
+21656:22 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21656:31 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21656:40 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;neck
+21656:49 K;0;1;allies;bob loblaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21656:52 D;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;luger_mp;35;MOD_RIFLE_BULLET;torso_lower
+21656:52 D;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;luger_mp;35;MOD_RIFLE_BULLET;torso_lower
+21656:53 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;mg42_bipod_stand_mp;35;MOD_RIFLE_BULLET;left_leg_upper
+21657:13 Weapon;0;2;Moosejaw;frag_grenade_british_mp
+21657:16 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21657:28 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_upper
+21657:30 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21657:36 D;0;4;axis;Simo Hayha;;-1;world;;none;6;MOD_FALLING;none
+21657:39 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21657:44 K;0;1;allies;bob loblaw;0;3;axis;Gilbert Justice;frag_grenade_german_mp;112;MOD_GRENADE_SPLASH;none
+21657:44 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21657:46 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21657:51 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21658:09 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21658:13 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21658:14 Weapon;0;3;Gilbert Justice;enfield_scope_mp
+21658:16 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21658:19 K;0;2;allies;Moosejaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;226;MOD_MELEE;neck
+21658:20 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21658:22 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;right_arm_upper
+21658:25 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21658:25 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21658:31 Weapon;0;0;your hopes and dreams;frag_grenade_german_mp
+21658:33 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21658:35 Weapon;0;4;Simo Hayha;g43_mp
+21658:36 K;0;2;allies;Moosejaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21658:36 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21658:38 Weapon;0;3;Gilbert Justice;kar98k_sniper_mp
+21658:43 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;right_arm_upper
+21658:46 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21658:55 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21658:56 D;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;webley_mp;35;MOD_RIFLE_BULLET;left_arm_lower
+21658:57 D;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;webley_mp;35;MOD_RIFLE_BULLET;torso_upper
+21658:57 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;mg42_bipod_stand_mp;35;MOD_RIFLE_BULLET;right_leg_upper
+21658:58 D;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;webley_mp;35;MOD_RIFLE_BULLET;torso_upper
+21658:58 D;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;webley_mp;52;MOD_RIFLE_BULLET;neck
+21658:58 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;mg42_bipod_stand_mp;87;MOD_HEAD_SHOT;head
+21659:02 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;35;MOD_RIFLE_BULLET;torso_lower
+21659:02 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;35;MOD_RIFLE_BULLET;torso_lower
+21659:02 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;mg42_bipod_stand_mp;35;MOD_RIFLE_BULLET;right_arm_lower
+21659:05 K;0;0;axis;your hopes and dreams;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;neck
+21659:11 Weapon;0;3;Gilbert Justice;frag_grenade_german_mp
+21659:12 Weapon;0;3;Gilbert Justice;kar98k_sniper_mp
+21659:17 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_upper
+21659:19 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21659:28 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21659:30 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;torso_upper
+21659:31 D;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;torso_lower
+21659:32 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;webley_mp;45;MOD_PISTOL_BULLET;torso_upper
+21659:33 Weapon;0;4;Simo Hayha;enfield_scope_mp
+21659:34 Weapon;0;2;Moosejaw;frag_grenade_german_mp
+21659:34 sayteam;0;1;bob loblaw;QUICKMESSAGE_GREAT_SHOT
+21659:35 Weapon;0;2;Moosejaw;g43_mp
+21659:35 D;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;g43_mp;90;MOD_RIFLE_BULLET;torso_upper
+21659:36 K;0;4;axis;Simo Hayha;0;2;allies;Moosejaw;g43_mp;45;MOD_RIFLE_BULLET;torso_lower
+21659:39 K;0;2;allies;Moosejaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+21659:46 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21659:49 K;0;3;axis;Gilbert Justice;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21659:49 Weapon;0;4;Simo Hayha;frag_grenade_german_mp
+21659:51 K;0;2;allies;Moosejaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21660:01 K;0;2;allies;Moosejaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;270;MOD_HEAD_SHOT;head
+21660:02 K;0;0;axis;your hopes and dreams;0;1;allies;bob loblaw;enfield_mp;270;MOD_HEAD_SHOT;head
+21660:07 K;0;2;allies;Moosejaw;0;4;axis;Simo Hayha;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21660:14 K;0;4;axis;Simo Hayha;0;1;allies;bob loblaw;enfield_mp;135;MOD_RIFLE_BULLET;torso_lower
+21660:15 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21660:26 K;0;2;allies;Moosejaw;0;0;axis;your hopes and dreams;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_lower
+21660:34 K;0;2;allies;Moosejaw;0;3;axis;Gilbert Justice;kar98k_sniper_mp;135;MOD_RIFLE_BULLET;torso_upper
+21660:42 Weapon;0;3;Gilbert Justice;frag_grenade_british_mp
+21660:44 K;0;3;axis;Gilbert Justice;0;2;allies;Moosejaw;enfield_scope_mp;135;MOD_RIFLE_BULLET;torso_lower
+21660:59 W;allies;0;bob loblaw;0;Moosejaw
+21660:59 L;axis;0;your hopes and dreams;0;Gilbert Justice;0;Simo Hayha
+21661:00 Q;0;4;Simo Hayha
+21661:02 Q;0;1;bob loblaw
+21661:06 Q;0;3;Gilbert Justice
+21661:09 ExitLevel: executed
+21661:09 ShutdownGame:
+21661:09 ------------------------------------------------------------
+21661:09 ------------------------------------------------------------

@@ -25,6 +25,7 @@
          :init    cod2log.core/init}
 
   :source-paths ["src/clj"]
+  :test-paths ["test/clj"]
 
   :cljsbuild {
               :builds [{:id "dev"

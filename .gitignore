@@ -1,2 +1,4 @@
 .lein-repl-history
+.lein-failures
+resources/public/js
 target/
