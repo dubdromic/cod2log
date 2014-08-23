@@ -3,38 +3,21 @@
             [clojure.pprint :refer [pprint]]
             [clojure.string :as string]))
 
-;; types
-;; J - join
-;; Q - quit
-;; K - kill
-;; D - damage
-;; W - winning team
-;; L - losing team
-;; Weapon - weapon pickup
-;; say - all chat
-;; sayteam - team chat
-;; ExitLevel - unload
-;; ShutdownGame: - round stop
-;; ------ - empty lines
-(defn line-type [parts]
-  (first parts))
+(defn ^:private get-parts-by-name [parts names-with-indicies]
+  (zipmap (keys names-with-indicies) (map #(get parts %) (vals names-with-indicies))))
+
+(def ^:private victim-info-parts {:victim-team 3 :victim-name 4})
+(def ^:private attacker-info-parts {:attacker-team 7 :attacker-name 8})
+(def ^:private weapon-info-parts {:weapon-name 9 :weapon-damage 10 :weapon-location 12 :weapon-type 11})
 
 (defn line-victim-info [parts]
-  (let [team (get parts 3)
-        name (get parts 4)]
-    {:victim-team team :victim-name name}))
+  (get-parts-by-name parts victim-info-parts))
 
 (defn line-attacker-info [parts]
-  (let [team (get parts 7)
-        name (get parts 8)]
-    {:attacker-team team :attacker-name name}))
+  (get-parts-by-name parts attacker-info-parts))
 
 (defn line-weapon-info [parts]
-  (let [code (get parts 9)
-        damage (get parts 10)
-        type (get parts 11)
-        location (get parts 12)]
-    {:weapon-name code :weapon-damage damage :weapon-location location :weapon-type type}))
+  (get-parts-by-name parts weapon-info-parts))
 
 (defn line-data [line]
   (let [data-parts (string/split line #";")
@@ -50,7 +33,10 @@
         data (line-data (first (rest line-parts)))]
     (conj {:time time} data)))
 
-(defn parse-file [filename]
-  (with-open [rdr (io/reader filename)]
-    (doseq [line (line-seq rdr)]
-      (pprint (line-time-and-data line)))))
+(defn parse-lines [rdr]
+  (for [line (line-seq rdr)]
+    (line-time-and-data line)))
+
+;; (defn logfile-to-map [filename]
+;;   (with-open [rdr (io/reader filename)]
+;;     (parse-lines rdr)))
