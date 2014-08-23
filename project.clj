@@ -17,7 +17,8 @@
 
   :plugins [[lein-cljsbuild "1.0.2"]
             [lein-ring "0.8.7"]
-            [lein-pdo "0.1.1"]]
+            [lein-pdo "0.1.1"]
+            [cider/cider-nrepl "0.8.0-SNAPSHOT"]]
 
   :aliases {"dev" ["pdo" "cljsbuild" "auto" "dev," "ring" "server-headless"]}
 
