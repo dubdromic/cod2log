@@ -11,19 +11,6 @@
 (def lines-without-time
   (map #(second (string/split % #"\s" 2)) lines))
 
-(deftest line-time-and-data-test
-  (is (= {:weapon-damage "135"
-          :weapon-location "torso_lower"
-          :attacker-name "Gilbert Justice"
-          :attacker-team "axis"
-          :victim-name "bob loblaw"
-          :victim-team "allies"
-          :weapon-name "kar98k_sniper_mp"
-          :type "K"
-          :weapon-type "MOD_RIFLE_BULLET"
-          :time "21633:00"}
-         (line-time-and-data (first lines)))))
-
 (deftest line-victim-info-test
   (testing "line-victim-info returns hash with nil values if line isn't valid"
     (is (= {:victim-team nil :victim-name nil} (line-victim-info ["J" "0" "1"]))))
