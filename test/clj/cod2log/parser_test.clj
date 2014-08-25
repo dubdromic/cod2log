@@ -11,23 +11,6 @@
 (def lines-without-time
   (map #(second (string/split % #"\s" 2)) lines))
 
-(deftest line-victim-info-test
-  (testing "line-victim-info returns hash with nil values if line isn't valid"
-    (is (= {:victim-team nil :victim-name nil} (line-victim-info ["J" "0" "1"]))))
-  (testing "line-victim-info returns correct victim info"
-    (is (= {:victim-team "allies" :victim-name "bob loblaw"} (line-victim-info ["K" "0" "1" "allies" "bob loblaw"])))))
-
-(deftest line-attacker-info-test
-  (testing "line-attacker-info returns hash with nil values if line isn't valid"
-    (is (= {:attacker-team nil :attacker-name nil} (line-attacker-info ["K" "0" "1" "Simo Hayha"]))))
-  (testing "line-attacker-info returns correct attacker info"
-    (is (= {:attacker-team "axis" :attacker-name "Simo Hayha"} (line-attacker-info ["K" "0" "1" "allies" "bob loblaw" "0" "0" "axis" "Simo Hayha"])))))
-
-(deftest line-weapon-info-test
-  (testing "line-weapon-info returns correct weapon info"
-    (is (= {:weapon-name "enfield_mp" :weapon-damage "100" :weapon-location "torso_lower" :weapon-type "MOD_RIFLE_BULLET"}
-           (line-weapon-info ["K" "0" "1" "allies" "bob loblaw" "0" "0" "axis" "Simo Hayha" "enfield_mp" "100" "MOD_RIFLE_BULLET" "torso_lower"])))))
-
 (deftest line-data-test
   (testing "line-data returns map of line data without time"
     (is (= {:weapon-damage "135",

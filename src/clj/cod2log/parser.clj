@@ -6,26 +6,20 @@
 (defn ^:private get-parts-by-name [parts names-with-indicies]
   (zipmap (keys names-with-indicies) (map #(get parts %) (vals names-with-indicies))))
 
-(def ^:private victim-info-parts {:victim-team 3 :victim-name 4})
-(def ^:private attacker-info-parts {:attacker-team 7 :attacker-name 8})
-(def ^:private weapon-info-parts {:weapon-name 9 :weapon-damage 10 :weapon-location 12 :weapon-type 11})
-
-(defn line-victim-info [parts]
-  (get-parts-by-name parts victim-info-parts))
-
-(defn line-attacker-info [parts]
-  (get-parts-by-name parts attacker-info-parts))
-
-(defn line-weapon-info [parts]
-  (get-parts-by-name parts weapon-info-parts))
+(def ^:private kd-line-parts {:type 0
+                              :victim-team 3
+                              :victim-name 4
+                              :attacker-team 7
+                              :attacker-name 8
+                              :weapon-name 9
+                              :weapon-type 11
+                              :weapon-damage 10
+                              :weapon-location 12})
 
 (defn line-data [line]
   (let [data-parts (string/split line #";")
-        type (first data-parts)
-        victim (line-victim-info data-parts)
-        attacker (line-attacker-info data-parts)
-        weapon (line-weapon-info data-parts)]
-    (merge {:type type} victim attacker weapon)))
+        named-parts (get-parts-by-name data-parts kd-line-parts)]
+    named-parts))
 
 (defn line-time-and-data [line]
   (let [line-parts (string/split line #"\s" 2)
