@@ -17,9 +17,8 @@
                               :weapon-location 12})
 
 (defn line-data [line]
-  (let [data-parts (string/split line #";")
-        named-parts (get-parts-by-name data-parts kd-line-parts)]
-    named-parts))
+  (let [data-parts (string/split line #";")]
+    (get-parts-by-name data-parts kd-line-parts)))
 
 (defn line-time-and-data [line]
   (let [line-parts (string/split line #"\s" 2)
