@@ -15,10 +15,19 @@
                               :weapon-type 11
                               :weapon-damage 10
                               :weapon-location 12})
+(def ^:private init-line-parts {:type 0
+                                :map 9})
+
+(def ^:private line-delimiter-regex #"(;|:|\\)")
+
 
 (defn line-data [line]
-  (let [data-parts (string/split line #";")]
-    (get-parts-by-name data-parts kd-line-parts)))
+  (let [data-parts (string/split line line-delimiter-regex)
+        first-word (first data-parts)]
+    (cond (= first-word "K") (get-parts-by-name data-parts kd-line-parts)
+          (= first-word "D") (get-parts-by-name data-parts kd-line-parts)
+          (= first-word "InitGame") (get-parts-by-name data-parts init-line-parts)
+          :else {:type nil})))
 
 (defn line-time-and-data [line]
   (let [line-parts (string/split line #"\s" 2)
